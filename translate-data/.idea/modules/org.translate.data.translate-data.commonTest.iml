@@ -4,7 +4,7 @@
     <facet type="kotlin-language" name="Kotlin">
       <configuration version="3" platform="Common (experimental) " allPlatforms="JVM [1.6]/Native []" useProjectSettings="false" isTestModule="true" externalProjectId="translate-data" isHmppProject="true">
         <newMppModelJpsModuleKind>SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
-        <externalSystemTestTasks>jvmTest|translate-data:jvmTest|jvm</externalSystemTestTasks>
+        <externalSystemTestTasks>androidTest|translate-data:androidTest|android</externalSystemTestTasks>
         <compilerSettings>
           <option name="additionalArguments" value="-Xuse-experimental=kotlin.Experimental" />
         </compilerSettings>

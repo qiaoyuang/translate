@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<projectStructure>
+    <formatVersion>0.1</formatVersion>
+    <variants>
+        <variant>
+            <name>android-api</name>
+            <sourceSet>commonMain</sourceSet>
+        </variant>
+        <variant>
+            <name>android-runtime</name>
+            <sourceSet>commonMain</sourceSet>
+        </variant>
+        <variant>
+            <name>ios-api</name>
+            <sourceSet>commonMain</sourceSet>
+        </variant>
+    </variants>
+    <sourceSets>
+        <sourceSet>
+            <name>commonMain</name>
+        </sourceSet>
+    </sourceSets>
+</projectStructure>

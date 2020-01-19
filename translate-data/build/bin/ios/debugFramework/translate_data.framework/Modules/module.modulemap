@@ -1,0 +1,6 @@
+framework module translate_data {
+    umbrella header "translate_data.h"
+
+    export *
+    module * { export * }
+}

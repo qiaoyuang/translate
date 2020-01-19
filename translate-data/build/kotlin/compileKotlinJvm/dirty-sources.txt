@@ -1,0 +1,9 @@
+/Users/qiaoyuang/Downloads/project/translate/translate-data/src/commonMain/kotlin/org/translate/data/entries/Word.kt
+/Users/qiaoyuang/Downloads/project/translate/translate-data/src/commonMain/kotlin/org/translate/data/entries/Dict.kt
+/Users/qiaoyuang/Downloads/project/translate/translate-data/src/commonMain/kotlin/org/translate/data/entries/RelatedWords.kt
+/Users/qiaoyuang/Downloads/project/translate/translate-data/src/commonMain/kotlin/org/translate/data/entries/InquireResult.kt
+/Users/qiaoyuang/Downloads/project/translate/translate-data/src/commonMain/kotlin/org/translate/data/entries/DictInfo.kt
+/Users/qiaoyuang/Downloads/project/translate/translate-data/src/commonMain/kotlin/org/translate/data/entries/Alternative.kt
+/Users/qiaoyuang/Downloads/project/translate/translate-data/src/commonMain/kotlin/org/translate/data/entries/AlternativeTranslations.kt
+/Users/qiaoyuang/Downloads/project/translate/translate-data/src/commonMain/kotlin/org/translate/data/KtorConfig.kt
+/Users/qiaoyuang/Downloads/project/translate/translate-data/src/commonMain/kotlin/org/translate/data/Inquire.kt

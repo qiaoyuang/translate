@@ -14,5 +14,3 @@ actual val CLIENT = HttpClient(Ios) {
 }
 
 actual fun Exception.handleException() = NSLog(message ?: "")
-
-fun getHello() = "getHello"
