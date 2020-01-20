@@ -2,10 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="com.example.translate-data.jvmMain" target="1.6" />
-      <module name="com.example.translate-data.jvmTest" target="1.6" />
-      <module name="org.translate.data.translate-data.jvmMain" target="1.6" />
-      <module name="org.translate.data.translate-data.jvmTest" target="1.6" />
+      <module name="data_androidMain" target="1.6" />
+      <module name="data_androidTest" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>

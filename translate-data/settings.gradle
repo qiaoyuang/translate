@@ -1,4 +1,3 @@
-rootProject.name = 'translate-data'
-
-
+include ':data'
+rootProject.name='translate-data'
 enableFeaturePreview('GRADLE_METADATA')
