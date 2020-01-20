@@ -10,10 +10,10 @@ import kotlinx.serialization.json.Json
 
 expect val CLIENT: HttpClient
 
+expect fun Exception.handleException()
+
 @UseExperimental(UnstableDefault::class)
 internal fun <T : HttpClientEngineConfig> HttpClientConfig<T>.configJson() =
     install(JsonFeature) {
         serializer = KotlinxSerializer(Json.nonstrict)
     }
-
-expect fun Exception.handleException()
